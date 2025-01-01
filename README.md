@@ -120,8 +120,8 @@ https://accounts.spotify.com/authorize?client_id={CLIENT_ID}&response_type=code&
   curl \
     -X POST \
     -H "Content-Type: application/x-www-form-urlencoded" \
-    -H "Authorization: Basic {BASE_64}" \
-    -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code={CODE}" \
+    -H "Authorization: Basic Y2M2Nzk1NjkxMzJlNGNhN2JiMmJjNWZkOWQwMDdhMDQ6MTE1Yjc1Yzc1ODg4NGNiY2JkYTA2Y2JjYzgyNmFkMzA" \
+    -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQCMKdj-w2Gv4i72d2tATn7_wwtKaplwCrF8WmtvPacjAxkuO7lRqg0zobmNOkRuP_HiRXfmVO4nOYho5m_uUOw4_gVO-8Gf3eeqJs4HMqc82m6uLhICzkAeqHC5NmaIoCE-Yxekke7VUZIhsp8pxCyg1uOF_JVZQtDK2oLvcPAKOcpSpRNIeLc9sj2CDVjBt3n3jwSuOrCWVyqZBC1oNnPtvzkJqK8VTcdCop8Vw_eUT3EweuU" \
     https://accounts.spotify.com/api/token
   ```
 
