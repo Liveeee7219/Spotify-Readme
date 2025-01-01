@@ -121,7 +121,7 @@ https://accounts.spotify.com/authorize?client_id={CLIENT_ID}&response_type=code&
     -X POST \
     -H "Content-Type: application/x-www-form-urlencoded" \
     -H "Authorization: Basic Y2M2Nzk1NjkxMzJlNGNhN2JiMmJjNWZkOWQwMDdhMDQ6MTE1Yjc1Yzc1ODg4NGNiY2JkYTA2Y2JjYzgyNmFkMzA" \
-    -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQCMKdj-w2Gv4i72d2tATn7_wwtKaplwCrF8WmtvPacjAxkuO7lRqg0zobmNOkRuP_HiRXfmVO4nOYho5m_uUOw4_gVO-8Gf3eeqJs4HMqc82m6uLhICzkAeqHC5NmaIoCE-Yxekke7VUZIhsp8pxCyg1uOF_JVZQtDK2oLvcPAKOcpSpRNIeLc9sj2CDVjBt3n3jwSuOrCWVyqZBC1oNnPtvzkJqK8VTcdCop8Vw_eUT3EweuU" \
+    -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQBNZufDEz3jkG4F5g41PLm_yowI-bfZpNf8sJnIwD2CL8iRBUGlfnJ7v-Vy0mb_Mr-dAK9kn-XG6Yw8UBSTeM8f5XkWMTEc65Y3cFx_O_UKE4tPZ33c5X471Zfj0BtJBdrBeX1nj4Mzx-pUK5kglsJZdyg1UmAbU3GdTgf1ZYa7Lv8sFScZU3j1MZC1qJ1QNqV_8Z5oxr6HQVxs6KiAsaAol4V5jtLrgu5Soui1kaovNQ3BrAE" \
     https://accounts.spotify.com/api/token
   ```
 
