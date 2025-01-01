@@ -97,7 +97,7 @@
 #### 2. Intermediary Steps 🛠️
 
 ```
-https://accounts.spotify.com/authorize?client_id={CLIENT_ID}&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
+https://accounts.spotify.com/authorize?client_id=cc679569132e4ca7bb2bc5fd9d007a04&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
 ```
 
 - Copy and paste the above link into your browser.
